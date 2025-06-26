@@ -6,7 +6,7 @@
     - src/login.html
 3. Hector : feature/logout-user
     - src/logout.html
-4. Karen : feature/list-users
+4. Karen : feature/list-users (feature/main)
     - src/list-users.html
 
 ### procedimientos:
@@ -16,4 +16,4 @@
 4. crear los archivos en la nueva rama : touch src/[nombre-archivo]
 5. añadir los archivos a la nueva rama : git add src/[nombre-archivo]
 6. commitear los archivos a la nueva rama : git commit -m "[mensaje-commit]"
-7. subir los archivos a la nueva rama : git push origin feature/[nombre-rama]
+7. subir los archivos a la nueva rama : git push origin feature/[nombre-rama] (credenciales del colaborador)
